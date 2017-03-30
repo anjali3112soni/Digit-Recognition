@@ -1,6 +1,6 @@
 Digit Recognition using MNIST dataset.
 
-Model.json: It is learned model on the MNIST dataset which has been saved in the json format.
+Model.json: It is learned model on the MNIST dataset which has been saved in json format.
 
 Model.h5:  	Weight of learned model is stored in it, which can be used on other computer for prediction.
 
