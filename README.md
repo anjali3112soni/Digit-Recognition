@@ -1,5 +1,5 @@
 # Digit-Recognition
-Mini project on digit recognition in machine learning.
+project on digit recognition in machine learning.
 
 Digit Recognition using MNIST dataset.
 
