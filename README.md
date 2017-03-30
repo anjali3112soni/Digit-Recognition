@@ -1,2 +1,13 @@
 # Digit-Recognition
-Mini project on digit recognition in machine learning
+Mini project on digit recognition in machine learning.
+
+Digit Recognition using MNIST dataset.
+
+Model.json: It is learned model on the MNIST dataset which has been saved in json format.
+
+Model.h5:  	Weight of learned model is stored in it, which can be used on other computer for prediction.
+
+This model give 96.6778% of accuracy.
+
+Image folder contains instant test images, craeted in Paint.
+
